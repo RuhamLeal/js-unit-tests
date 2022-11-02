@@ -16,7 +16,7 @@ To acess the code, just need to clone the repository:
 git clone https://github.com/RuhamLeal/js-unit-tests.git
 ```
 ```
-cd js-functions
+cd js-unit-tests
 ```
 
 
