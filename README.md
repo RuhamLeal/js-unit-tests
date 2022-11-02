@@ -1,4 +1,4 @@
-# js-hofs-es6-functions
+# js-unit-tests
 
 One of the first projects I did starting with jest unit tests, there are some [@trybe](https://www.betrybe.com/) challenges I was tasked to do
 
